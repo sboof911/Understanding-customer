@@ -1,0 +1,11 @@
+scikit-learn
+matplotlib
+seaborn
+imbalanced-learn
+tensorflow
+spacy
+tqdm
+torch
+transformers
+wandb
+datasets
